@@ -56,3 +56,27 @@ body, html {
     font-weight: 400;
 
 }
+
+
+.contenedor-negro {
+    background-color: rgb(0, 0, 0); /* Color negro con opacidad */
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.texto-negro {
+    padding: 20px;
+}
+
+#row {
+    width: 100%;
+    border: 1px solid #000000;
+
+    display: flex;
+}
+
+#col4{
+    width: 25%;
+
+}
